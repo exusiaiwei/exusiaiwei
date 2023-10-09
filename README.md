@@ -8,10 +8,6 @@
 
 🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
 
-### Research Interests  
-🖥Quantitative Linguistics  
-🧑‍🔬Psycholinguistics (Eye-tracking)
-
 </div>
 
 <div align="right">
@@ -20,6 +16,11 @@
 
 </div>
 
+### Research Interests  
+
+🖥Quantitative Linguistics  
+
+🧑‍🔬Psycholinguistics (Eye-tracking)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
