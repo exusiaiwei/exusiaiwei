@@ -76,5 +76,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats)
 
-## Repository Status Report
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei&show_icons=true&theme=tokyonight)
