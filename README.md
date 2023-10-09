@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Hi！I am exusiaiwei</div>  
@@ -14,11 +11,12 @@
 
 
 ### Research Interests  
-#### 🖥Quantitative Linguistics
+🖥Quantitative Linguistics
 
 🧑‍🔬Psycholinguistics (Eye-tracking)  
   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats)
 <br/>  
 
 
@@ -74,5 +72,4 @@
 
 ## Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats)
 
