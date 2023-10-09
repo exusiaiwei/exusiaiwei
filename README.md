@@ -2,27 +2,26 @@
 
 ### <div align="center">Hi！I am exusiaiwei</div>  
 
-<div align="left">
-  
-😀 A passionate seeker of knowledge, 
+<div>
+  <div style="float: left; width: 50%;">
+    <!-- 左侧文本内容 -->
+    😀 A passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
+    
+    🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
 
-🤔dedicated to exploring and innovating in the field of Linguistics.
+    ### Research Interests  
+    🖥Quantitative Linguistics  
+    🧑‍🔬Psycholinguistics (Eye-tracking)
+  </div>
 
-🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
+  <div style="float: right; width: 50%;">
+    <!-- 右侧图表 -->
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats)
+  </div>
 
+  <div style="clear: both;"></div>
 </div>
 
-<div align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats)
-
-</div>
-
-### Research Interests  
-
-🖥Quantitative Linguistics  
-
-🧑‍🔬Psycholinguistics (Eye-tracking)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
