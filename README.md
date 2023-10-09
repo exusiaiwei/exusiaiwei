@@ -3,7 +3,7 @@
 ### <div align="center">Hi！I am exusiaiwei</div>  
 
 <a href="https://passer-by.com/" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=exusiaiwei&show_icons=true&count_private=false&theme=vue-dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=exusiaiwei&show_icons=true&count_private=false&theme=vue-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei&layout=compact)](https://github.com/exusiaiwei/github-readme-stats" />
 </a>
 
 
