@@ -16,6 +16,9 @@
 
 ## My Coding Situation
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table><tr><td valign="top" width="50%">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=exusiaiwei&theme=vue&hide_border=true)](https://git.io/streak-stats)
@@ -25,14 +28,3 @@
 [![exusiaiwei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=exusiaiwei)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
-
-</td><td valign="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
-
-</td></tr></table>
-
