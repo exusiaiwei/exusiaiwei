@@ -2,10 +2,6 @@
 
 ### <div align="center">Hi！I am exusiaiwei</div>  
 
-<a href="https://github.com/exusiaiwei/github-readme-stats" target="_blank">
-  <img align="right" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
-
 😀 I'm a passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
 
 🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
@@ -60,3 +56,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=exusiaiwei)](https://git.io/streak-stats)
 
 
+[![exusiaiwei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=exusiaiwei)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
