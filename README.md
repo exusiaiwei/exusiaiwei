@@ -1,18 +1,20 @@
   
 
-### <div align="center">Hi！I am exusiaiwei</div>  
+## <div align="center">Hi！I am exusiaiwei</div>  
 
 😀 I'm a passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
 
 🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
 
-### Research Interests  
+### My Research Interests  
 
-🖥 Quantitative Linguistics  
-   
-🧑‍🔬 Psycholinguistics (Eye-tracking)
+![Quantitative Linguistics](https://img.shields.io/badge/Quantitative%20Linguistics-%230072CC.svg?&style=for-the-badge&logo=appveyor&logoColor=white)![Psycholinguistics (Eye-tracking)](https://img.shields.io/badge/Psycholinguistics%20(Eye--tracking)-%2301a3a1.svg?&style=for-the-badge&logo=AWS%20Amplify&logoColor=white)![Computational Linguistics](https://img.shields.io/badge/Computational%20Linguistics-%231877F2.svg?&style=for-the-badge&logo=Markdown&logoColor=white)![LLM](https://img.shields.io/badge/LLM-%23F76300.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
-## My Github Situation
+### My Skill Set
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&color=2AB3E3)![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Latex](https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## My Coding Situation
 
 <table><tr><td valign="top" width="50%">
 
@@ -33,39 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Learned  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Being Developed  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Planned to Learn  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
 
