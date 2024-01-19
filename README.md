@@ -8,15 +8,34 @@
 
 ### Research Interests  
 
-   🖥Quantitative Linguistics  
+🖥 Quantitative Linguistics  
    
-  🧑‍🔬Psycholinguistics (Eye-tracking)
+🧑‍🔬 Psycholinguistics (Eye-tracking)
 
+## My Github Situation
+
+<table><tr><td valign="top" width="50%">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=exusiaiwei&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
+</td><td valign="top" width="50%">
+
+[![exusiaiwei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=exusiaiwei)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
+
+</td><td valign="top" width="50%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Learned  
 <div align="center">  
@@ -29,8 +48,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Being Developed  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -40,8 +57,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Planned to Learn  
 <div align="center">  
@@ -53,11 +68,4 @@
 
 <br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=exusiaiwei)](https://git.io/streak-stats)
 
-
-[![exusiaiwei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=exusiaiwei)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exusiaiwei)](https://github.com/anuraghazra/github-readme-stats)
