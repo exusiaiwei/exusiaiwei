@@ -1,12 +1,12 @@
-  
 
-## <div align="center">Hi！I am exusiaiwei</div>  
+
+## <div align="center">Hi！I am Zichao Wei</div>
 
 😀 I'm a passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
 
 🙋‍♂️ I hope we can achieve the greatness of Nicolas Bourbaki.
 
-### 🔬 My Research Interests  
+### 🔬 My Research Interests
 
 ![Quantitative Linguistics](https://img.shields.io/badge/Quantitative%20Linguistics-%230072CC.svg?&style=for-the-badge&logo=appveyor&logoColor=white)![Psycholinguistics](https://img.shields.io/badge/Psycholinguistics-%2301a3a1.svg?&style=for-the-badge&logo=AWS%20Amplify&logoColor=white)
 
@@ -23,24 +23,24 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 864.5 kB Used in GitHub's Storage 
- > 
+> 📦 864.5 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I Mostly Code in TeX** 
+ >
+> 📜 25 Public Repositories
+ >
+> 🔑 7 Private Repositories
+ >
+**I Mostly Code in TeX**
 
 ```text
-TeX                      6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Typst                    4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TeX                      6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Typst                    4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 %
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 
