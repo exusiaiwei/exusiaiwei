@@ -29,6 +29,8 @@
 
 > 📦 863.5 kB Used in GitHub's Storage 
  > 
+> 🏆 888 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -62,16 +64,16 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Obsidian                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -87,5 +89,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 18:41:27 UTC
+ Last Updated on 08/10/2024 18:41:18 UTC
 <!--END_SECTION:waka-->
