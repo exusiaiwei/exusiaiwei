@@ -21,7 +21,7 @@
 ### 📈 My Coding Situation
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,19 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             █████████████████████░░░░   85.91 % 
+Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 13 mins             █████████████████████░░░░   85.91 % 
+Cursor                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Obsidian                 13 mins             █████████████████████░░░░   85.91 % 
+supp-llm-lexical-distribu2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -87,5 +90,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2024 18:41:35 UTC
+ Last Updated on 12/10/2024 18:39:49 UTC
 <!--END_SECTION:waka-->
