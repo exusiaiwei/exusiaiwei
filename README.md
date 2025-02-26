@@ -62,17 +62,16 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     0 secs              ██████████████████████░░░   89.66 % 
-Nushell                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-course-ws24-genai        0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +87,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 18:43:30 UTC
+ Last Updated on 26/02/2025 18:43:09 UTC
 <!--END_SECTION:waka-->
