@@ -21,7 +21,7 @@
 ### 📈 My Coding Situation
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -64,16 +64,18 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      31 mins             █████████████████████████   99.25 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PARA                     31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +91,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 18:43:12 UTC
+ Last Updated on 28/02/2025 18:42:59 UTC
 <!--END_SECTION:waka-->
