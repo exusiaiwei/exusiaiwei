@@ -23,11 +23,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 507.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,5 +93,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2025 18:41:55 UTC
+ Last Updated on 04/03/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
