@@ -17,3 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&color=2AB3E3)![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Latex](https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex&logoColor=white)![Eyetracking](https://img.shields.io/badge/Eyetracking-%230078D6?style=for-the-badge&logo=SearXNG&logoColor=#3050FF)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
