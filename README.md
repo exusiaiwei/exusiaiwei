@@ -19,13 +19,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 426.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 130 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,22 +62,22 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 50 mins        █████████████████████░░░░   85.56 % 
-Typst                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   1 hr 55 mins        ██████████████████████░░░   87.57 % 
+Typst                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ██████████████████████░░░   89.22 % 
-Cursor                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+VS Code                  1 hr 57 mins        ██████████████████████░░░   89.46 % 
+Cursor                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🐱‍💻 Projects: 
-SNLP                     1 hr 46 mins        ████████████████████░░░░░   81.95 % 
-Typst_output             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Code                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-llm_api_calls            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Code                     59 mins             ███████████░░░░░░░░░░░░░░   45.42 % 
+SNLP                     57 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+Typst_output             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 18:47:34 UTC
+ Last Updated on 13/06/2025 18:48:18 UTC
 <!--END_SECTION:waka-->
