@@ -1,6 +1,6 @@
 
 
-## <div align="center">Hi！</div>
+## <div align="center">Welcome to my GitHub! </div>
 
 😀 I'm a passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
 
