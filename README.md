@@ -1,6 +1,6 @@
 
 
-## <div align="center">Hi！I am Zichao Wei</div>
+## <div align="center">Hi！</div>
 
 😀 I'm a passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.
 
