@@ -19,13 +19,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 434.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 157 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,23 +62,24 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.42 % 
-Quarto                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-YAML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Typst                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Python                   1 hr 38 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
+Quarto                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+YAML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+SCSS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Code                     2 hrs 16 mins       █████████████░░░░░░░░░░░░   51.10 % 
-uni-saarland-survival-gui1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.03 % 
-Typst_output             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-1. Projects              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Code                     2 hrs 7 mins        ██████████████░░░░░░░░░░░   56.07 % 
+uni-saarland-survival-gui1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.28 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+1. Projects              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Typst_output             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2025 18:48:55 UTC
+ Last Updated on 25/06/2025 18:50:33 UTC
 <!--END_SECTION:waka-->
