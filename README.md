@@ -19,13 +19,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 441.1 kB Used in GitHub's Storage 
- > 
-> 🏆 157 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,6 +33,51 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌆 Daytime                327 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌃 Evening                446 commits         ██████████░░░░░░░░░░░░░░░   41.07 % 
+🌙 Night                  263 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Tuesday                  264 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Thursday                 295 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 20 mins        █████████████░░░░░░░░░░░░   51.93 % 
+Text                     59 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Code                     2 hrs 19 mins       ███████████████████████░░   90.18 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+
+💻 Operating System: 
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -50,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:48:30 UTC
+ Last Updated on 02/07/2025 18:49:29 UTC
 <!--END_SECTION:waka-->
