@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -60,21 +60,23 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 mins             █████████████████████░░░░   82.37 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Quarto                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    42 mins             ██████████████░░░░░░░░░░░   56.84 % 
+Markdown                 25 mins             ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Quarto                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-supp-eyetracking-ll-2022 43 mins             █████████████████████████   99.58 % 
-script                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+supp-eyetracking-ll-2022 43 mins             ██████████████░░░░░░░░░░░   57.93 % 
+Unknown Project          19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+20. Areas                11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+script                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +96,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 18:52:15 UTC
+ Last Updated on 25/07/2025 18:52:00 UTC
 <!--END_SECTION:waka-->
