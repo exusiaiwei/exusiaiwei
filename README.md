@@ -27,8 +27,6 @@
 
 > 📦 441.3 kB Used in GitHub's Storage 
  > 
-> 🏆 160 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -62,18 +60,16 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 mins             ████████████████████░░░░░   78.67 % 
-Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          19 mins             ███████████████░░░░░░░░░░   61.66 % 
-20. Areas                11 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +89,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 18:53:41 UTC
+ Last Updated on 01/08/2025 18:52:50 UTC
 <!--END_SECTION:waka-->
