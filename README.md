@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,21 +62,21 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Quarto                   1 hr 50 mins        ████████████░░░░░░░░░░░░░   46.84 % 
-RMarkdown                50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Quarto                   2 hrs 42 mins       ████████████████░░░░░░░░░   63.54 % 
+RMarkdown                50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Master-SS25-ExpMe        3 hrs 24 mins       ██████████████████████░░░   86.59 % 
-manuscript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Master-SS25-ExpMe        2 hrs 12 mins       █████████████░░░░░░░░░░░░   51.64 % 
+manuscript               2 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.36 % 
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:44:44 UTC
+ Last Updated on 09/09/2025 18:43:09 UTC
 <!--END_SECTION:waka-->
