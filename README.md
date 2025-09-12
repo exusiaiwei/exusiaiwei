@@ -19,15 +19,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 441.4 kB Used in GitHub's Storage 
- > 
-> 🏆 170 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,20 +60,20 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Quarto                   4 hrs 24 mins       ████████████████████████░   94.18 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Quarto                   6 hrs 30 mins       █████████████████████████   98.12 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-manuscript               4 hrs 18 mins       ███████████████████████░░   91.87 % 
-Master-SS25-ExpMe        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+manuscript               6 hrs 37 mins       █████████████████████████   99.91 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:43:17 UTC
+ Last Updated on 12/09/2025 18:41:59 UTC
 <!--END_SECTION:waka-->
