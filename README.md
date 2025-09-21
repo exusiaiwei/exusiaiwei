@@ -19,6 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,53 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+🌆 Daytime                414 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌃 Evening                445 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌙 Night                  277 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  264 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Thursday                 313 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Typst                    7 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.35 % 
+Quarto                   4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JavaScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 22 mins      █████████████████████████   99.66 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+
+🐱‍💻 Projects: 
+manuscript               11 hrs 9 mins       ██████████████░░░░░░░░░░░   57.45 % 
+yet-another-memos-sync   3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Paper                    2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+memos-sync               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+
+💻 Operating System: 
+Windows                  19 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -50,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:41:03 UTC
+ Last Updated on 21/09/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
