@@ -19,8 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -35,45 +33,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                414 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌃 Evening                445 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
-🌙 Night                  277 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  264 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Thursday                 313 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,5 +50,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:42:20 UTC
+ Last Updated on 28/09/2025 18:41:52 UTC
 <!--END_SECTION:waka-->
