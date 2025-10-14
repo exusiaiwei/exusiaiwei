@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,18 +62,19 @@ Sunday                   161 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    1 hr 28 mins        ███████████████████████░░   93.63 % 
-Quarto                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Typst                    4 hrs 29 mins       ████████████████████████░   97.03 % 
+Quarto                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-研-硕士论文破冰                 1 hr 32 mins        ████████████████████████░   97.66 % 
-SS25-GrePo               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+研-硕士论文破冰                 4 hrs 35 mins       █████████████████████████   99.20 % 
+SS25-GrePo               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:45:47 UTC
+ Last Updated on 14/10/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
