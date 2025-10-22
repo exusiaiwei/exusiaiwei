@@ -62,20 +62,16 @@ Sunday                   161 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    1 hr 26 mins        ███████████████░░░░░░░░░░   60.83 % 
-Python                   52 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
-BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Quarto                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-研-硕士论文破冰                 2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 18:48:11 UTC
+ Last Updated on 22/10/2025 18:49:09 UTC
 <!--END_SECTION:waka-->
