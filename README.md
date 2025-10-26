@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,23 +62,23 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 39 mins             ████████████████░░░░░░░░░   64.45 % 
-JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Typst                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Vue.js                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown                 43 mins             █████████████████░░░░░░░░   66.82 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Typst                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Vue.js                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Slidev_Temp              32 mins             █████████████░░░░░░░░░░░░   52.51 % 
-ML里程碑                    22 mins             █████████░░░░░░░░░░░░░░░░   37.45 % 
-resource-writing-template5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-course-ws24-genai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Slidev_Temp              36 mins             ██████████████░░░░░░░░░░░   55.68 % 
+ML里程碑                    22 mins             █████████░░░░░░░░░░░░░░░░   34.94 % 
+resource-writing-template5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+course-ws24-genai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +98,5 @@ Typst                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:43:08 UTC
+ Last Updated on 26/10/2025 18:44:29 UTC
 <!--END_SECTION:waka-->
