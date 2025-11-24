@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,24 +62,24 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 35 mins       ████████████████████░░░░░   78.73 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Typst                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   7 hrs 30 mins       ████████████████████░░░░░   78.24 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-course-25ws-cl           7 hrs 50 mins       ████████████████████░░░░░   81.35 % 
-craft-components         38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-OneDrive - MSFT          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-template-course-1        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-stable diffusion         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+course-25ws-cl           7 hrs 44 mins       ████████████████████░░░░░   80.70 % 
+craft-components         1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+OneDrive - MSFT          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+stable diffusion         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+craft-exercism           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 18:45:50 UTC
+ Last Updated on 24/11/2025 18:51:02 UTC
 <!--END_SECTION:waka-->
