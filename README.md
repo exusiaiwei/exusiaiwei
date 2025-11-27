@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,25 +62,25 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    3 hrs 18 mins       ██████████████░░░░░░░░░░░   54.74 % 
-Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-SSH Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Typst                    5 hrs 19 mins       █████████████████░░░░░░░░   68.79 % 
+Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+SSH Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       ██████████████░░░░░░░░░░░   54.32 % 
-Antigravity              2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.68 % 
+Antigravity              4 hrs 27 mins       ██████████████░░░░░░░░░░░   57.55 % 
+VS Code                  3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
 
 🐱‍💻 Projects: 
-course-25ws-llm-limitatio3 hrs 58 mins       ████████████████░░░░░░░░░   65.66 % 
-craft-components         1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-OneDrive - MSFT          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-touying                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-craft-exercism           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+course-25ws-llm-limitatio6 hrs 1 min         ███████████████████░░░░░░   77.82 % 
+craft-components         42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+OneDrive - MSFT          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+touying                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+craft-exercism           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2025 18:46:35 UTC
+ Last Updated on 27/11/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
