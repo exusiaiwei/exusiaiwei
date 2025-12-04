@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -62,23 +62,24 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    2 hrs               █████████░░░░░░░░░░░░░░░░   35.19 % 
-Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-JavaScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Nushell                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown                 1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.08 % 
+JavaScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Nushell                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+YAML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       ████████████████░░░░░░░░░   62.55 % 
-Antigravity              2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.45 % 
+Antigravity              2 hrs 30 mins       █████████████░░░░░░░░░░░░   50.62 % 
+VS Code                  2 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.38 % 
 
 🐱‍💻 Projects: 
-meta-infra               2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.79 % 
-course-25ws-llm-limitatio2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.87 % 
-pake                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+meta-infra               2 hrs 30 mins       █████████████░░░░░░░░░░░░   50.62 % 
+pake                     2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.60 % 
+course-25ws-cl           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+yasb                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 18:53:45 UTC
+ Last Updated on 04/12/2025 18:54:48 UTC
 <!--END_SECTION:waka-->
