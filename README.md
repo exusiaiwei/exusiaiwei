@@ -19,13 +19,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 443.0 kB Used in GitHub's Storage 
+> 📦 443.1 kB Used in GitHub's Storage 
  > 
 > 🏆 292 Contributions in the Year 2025
  > 
@@ -62,25 +62,25 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs               ████████████░░░░░░░░░░░░░   49.40 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-SSH Config               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-CSS                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Python                   7 hrs 37 mins       ████████████████████░░░░░   78.22 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 35 mins       ███████████████████░░░░░░   75.32 % 
-VS Code                  1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Antigravity              9 hrs 17 mins       ████████████████████████░   95.30 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-course-25ws-cl           3 hrs 15 mins       █████████████░░░░░░░░░░░░   53.62 % 
-Unknown Project          1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-craft-fonts              1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-course-25ws-llm-limitatio6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-exusiai                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+course-25ws-cl           7 hrs 59 mins       ████████████████████░░░░░   81.86 % 
+craft-fonts              1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+course-25ws-llm-limitatio6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+exusiai                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:51:59 UTC
+ Last Updated on 20/12/2025 18:46:48 UTC
 <!--END_SECTION:waka-->
