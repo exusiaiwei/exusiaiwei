@@ -19,15 +19,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 444.4 kB Used in GitHub's Storage 
+> 📦 446.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,58 +33,14 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-🌆 Daytime                406 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
-🌃 Evening                397 commits         ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌙 Night                  293 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Wednesday                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Thursday                 283 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Friday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   29 hrs 40 mins      ███████████████████████░░   92.26 % 
-Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-Antigravity              32 hrs 9 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-lab-sead-2025            32 hrs 7 mins       █████████████████████████   99.89 % 
-draft-ripple-2025        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-💻 Operating System: 
-Windows                  32 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
 Typst                    7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -96,5 +50,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:51:56 UTC
+ Last Updated on 02/01/2026 18:51:42 UTC
 <!--END_SECTION:waka-->
