@@ -19,13 +19,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 446.2 kB Used in GitHub's Storage 
+> 📦 453.7 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -62,17 +62,17 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 17 mins      ███████████████████████░░   91.87 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Python                   22 hrs 19 mins      ███████████████████████░░   90.78 % 
+Markdown                 2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Antigravity              24 hrs 16 mins      █████████████████████████   100.00 % 
+Antigravity              24 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab-sead-2025            24 hrs 16 mins      █████████████████████████   100.00 % 
+lab-sead-2025            24 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +92,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:50:42 UTC
+ Last Updated on 05/01/2026 18:55:07 UTC
 <!--END_SECTION:waka-->
