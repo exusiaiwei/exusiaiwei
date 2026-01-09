@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,20 +62,20 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 4 mins       ██████████████████████░░░   86.41 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   11 hrs 17 mins      █████████████████████░░░░   85.39 % 
+Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Antigravity              15 hrs 7 mins       █████████████████████████   100.00 % 
+Antigravity              13 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab-sead-2025            14 hrs 41 mins      ████████████████████████░   97.18 % 
-craft-components         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+lab-sead-2025            12 hrs 47 mins      ████████████████████████░   96.78 % 
+craft-components         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  15 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +95,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 18:52:38 UTC
+ Last Updated on 09/01/2026 18:54:54 UTC
 <!--END_SECTION:waka-->
