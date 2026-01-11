@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,20 +62,21 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 18 mins      █████████████████████░░░░   85.67 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Python                   10 hrs 2 mins       █████████████████████░░░░   83.58 % 
+Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Quarto                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Antigravity              12 hrs 1 min        █████████████████████████   100.00 % 
+Antigravity              12 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab-sead-2025            11 hrs 36 mins      ████████████████████████░   96.46 % 
+lab-sead-2025            11 hrs 35 mins      ████████████████████████░   96.46 % 
 craft-components         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Windows                  12 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  12 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +96,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 18:51:05 UTC
+ Last Updated on 11/01/2026 18:50:20 UTC
 <!--END_SECTION:waka-->
