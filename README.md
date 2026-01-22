@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,20 +62,22 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Quarto                   4 hrs 53 mins       ███████████████████░░░░░░   76.02 % 
-Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Typst                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Quarto                   4 hrs 39 mins       ██████████████████░░░░░░░   73.72 % 
+Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Typst                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 26 mins       █████████████████████████   100.00 % 
+Antigravity              6 hrs 1 min         ████████████████████████░   95.41 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🐱‍💻 Projects: 
-lab-sead-2025            6 hrs 26 mins       █████████████████████████   100.00 % 
+lab-sead-2025            6 hrs 1 min         ████████████████████████░   95.41 % 
+software project         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +97,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:05:54 UTC
+ Last Updated on 22/01/2026 18:58:59 UTC
 <!--END_SECTION:waka-->
