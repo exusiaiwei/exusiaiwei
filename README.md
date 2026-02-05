@@ -62,22 +62,16 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 23 mins        ███████████████░░░░░░░░░░   58.15 % 
-Typst                    50 mins             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              2 hrs 22 mins       █████████████████████████   98.61 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-course-25ws-cl           1 hr 30 mins        ████████████████░░░░░░░░░   62.64 % 
-lab-sead-2025            51 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +91,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 19:14:43 UTC
+ Last Updated on 05/02/2026 19:13:01 UTC
 <!--END_SECTION:waka-->
