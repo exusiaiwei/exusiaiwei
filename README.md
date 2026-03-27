@@ -19,15 +19,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-723%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 467.1 kB Used in GitHub's Storage 
+> 📦 467.2 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,20 +39,20 @@
 
 ```text
 🌞 Morning                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-🌆 Daytime                422 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌃 Evening                459 commits         █████████░░░░░░░░░░░░░░░░   34.88 % 
-🌙 Night                  344 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌆 Daytime                422 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌃 Evening                460 commits         █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌙 Night                  344 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Tuesday                  303 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 289 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Friday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Monday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Tuesday                  303 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Thursday                 289 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 
@@ -97,5 +97,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/exusiaiwei/exusiaiwei/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 19:38:25 UTC
+ Last Updated on 27/03/2026 19:16:31 UTC
 <!--END_SECTION:waka-->
